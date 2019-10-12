@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         AdView mBannerAd = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder()
                 .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
-                .addTestDevice("D8628BC63271598CBE67943279248FFB")
+                .addTestDevice("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
                 .build();
         mBannerAd.loadAd(adRequest);
 
