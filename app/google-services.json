@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346872663737",
+    "firebase_url": "https://letz-learn.firebaseio.com",
+    "project_id": "letz-learn",
+    "storage_bucket": "letz-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346872663737:android:7df726a61661d815f7d568",
+        "android_client_info": {
+          "package_name": "com.luxjim.letzlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346872663737-ejmavnq821tn1qsmf1eooodd05qt3ctq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHF3bVW0TnulMLvAaI5Hp107Ialx5BpiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346872663737-ejmavnq821tn1qsmf1eooodd05qt3ctq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
