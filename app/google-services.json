@@ -13,23 +13,12 @@
           "package_name": "com.luxjim.letzlearn"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "346872663737-ejmavnq821tn1qsmf1eooodd05qt3ctq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBHF3bVW0TnulMLvAaI5Hp107Ialx5BpiU"
-        }
-      ],
+     
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "346872663737-ejmavnq821tn1qsmf1eooodd05qt3ctq.apps.googleusercontent.com",
-              "client_type": 3
+              
             }
           ]
         }
