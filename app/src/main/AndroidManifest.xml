@@ -29,7 +29,7 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-8848290226463787~4752311227"/>
+            android:value="ca-app-pub-xxxxxxxxxxxxxxxxxxxxxxxxxxxx"/>
 
         <!--Include the AdActivity configChanges and theme. -->
         <activity android:name="com.google.android.gms.ads.AdActivity"
